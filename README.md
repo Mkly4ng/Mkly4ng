@@ -1,6 +1,6 @@
 ## Olá, sou o Mikhael Yang. Sejam bem vindos ao meu Github!
 <div>
-  <img width="43%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mkly4ng&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mkly4ng&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkly4ng&layout=compact&langs_count-168theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
