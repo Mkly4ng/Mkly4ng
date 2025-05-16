@@ -16,7 +16,7 @@
 ### Estatisticas:
 <div>
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mkly4ng&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkly4ng&layout=compact&langs_count-168theme=dark"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkly4ng&show_progress=true&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mkly4ng/Mkly4ng/output/github-contribution-grid-snake-dark.svg">
