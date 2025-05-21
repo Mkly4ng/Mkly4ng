@@ -1,4 +1,4 @@
-## Olá, sou o Mikhael Yang. Sejam bem vindos ao meu Github!
+## Olá, sou o Mikhael Yang. Seja bem vindo ao meu Github!
 </div>
   <a href="https://www.youtube.com/@AkayBr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/mkly4ng" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
